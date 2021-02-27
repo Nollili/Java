@@ -1,7 +1,4 @@
-
-package opsie;
-
-class Cat {
+public class Cat {
     String breed = "Mousehunter";
     String name = "Sally";
     String color = "ginger";
